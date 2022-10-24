@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gif-portal/static/css/main.073c9b0a.css",
+    "main.js": "/gif-portal/static/js/main.c0c0b5a2.js",
+    "static/js/496.9c7c77d8.chunk.js": "/gif-portal/static/js/496.9c7c77d8.chunk.js",
+    "static/media/logo.svg": "/gif-portal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gif-portal/index.html",
+    "main.073c9b0a.css.map": "/gif-portal/static/css/main.073c9b0a.css.map",
+    "main.c0c0b5a2.js.map": "/gif-portal/static/js/main.c0c0b5a2.js.map",
+    "496.9c7c77d8.chunk.js.map": "/gif-portal/static/js/496.9c7c77d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c0c0b5a2.js"
+  ]
+}
